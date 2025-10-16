@@ -18,6 +18,9 @@
   <a href="https://autoresearcher.github.io/docs"><img src="https://img.shields.io/badge/Documentation-000?logo=googledocs&logoColor=FFE165&style=for-the-badge" alt="Check out the documentation"></a>
   <a href="https://arxiv.org/abs/2505.18705"><img src="https://img.shields.io/badge/Paper%20on%20Arxiv-000?logoColor=FFE165&logo=arxiv&style=for-the-badge" alt="Paper"></a>
   <a href="https://autoresearcher.github.io/leaderboard"><img src="https://img.shields.io/badge/DATASETS-000?logoColor=FFE165&logo=huggingface&style=for-the-badge" alt="Benchmark"></a>
+  <br>
+  <a href="./Communication.md"><img src="https://img.shields.io/badge/💬Feishu-Group-07c160?style=for-the-badge&logoColor=white&labelColor=1a1a2e"></a>
+  <a href="./Communication.md"><img src="https://img.shields.io/badge/WeChat-Group-07c160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=1a1a2e"></a>
   <hr>
 </div>
 
